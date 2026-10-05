@@ -1,0 +1,11 @@
+# Ignorar configuraciones del editor
+.vscode/
+.idea/
+
+# Ignorar archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos comprimidos de backups locales
+*.zip
+*.rar
